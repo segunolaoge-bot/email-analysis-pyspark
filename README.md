@@ -100,8 +100,10 @@ Segun Olaoge
 ### Top Senders
 ![Top Senders](images/Topten-senders.png)
 
-### Daily Email Counts (2001)
-![Daily Emails](images/daily-emails.png)
+### Daily Email Analysis Code
+![Daily Emails Code](images/daily-emails-code.png)
 
-### Daily Email Result For 2001
-![Daily Emails Result](images/daily-email2001result.png)
+### Daily Email Counts (2001)
+![Daily Emails 2001](images/daily-emails-2001.png)
+
+This analysis shows the volume of emails exchanged per day in 2001, the year Enron collapsed, highlighting communication trends over time.
