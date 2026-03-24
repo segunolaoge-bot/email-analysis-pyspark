@@ -81,3 +81,27 @@ email-analysis-pyspark/
 
 ## 👤 Author
 Segun Olaoge
+
+
+## 📸 Project Screenshots
+
+### Data Loading
+![Data Loading](images/data-loading.png)
+
+### Parsed Data
+![Parsed Data](images/parsed-data.png)
+
+### Cleaned Data
+![Cleaned Data](images/cleaned-data.png)
+
+### Mean Emails Per Sender
+![Mean Result](images/mean-result.png)
+
+### Top Senders
+![Top Senders](images/Topten-senders.png)
+
+### Daily Email Counts (2001)
+![Daily Emails](images/daily-emails.png)
+
+### Daily Email Result For 2001
+![Daily Emails Result](images/daily-email2001result.png)
