@@ -46,11 +46,9 @@ Mean Emails Per Sender = Total Emails / Unique Senders
 ---
 
 ## 📊 Example Output
-- Total Emails: XXXX  
-- Unique Senders: XXXX  
-- Mean Emails per Sender: XX.X  
-
-(*Replace with your real results*)
+- Total Emails: 517401 
+- Unique Senders: 20328  
+- Mean Emails per Sender: 25.45  
 
 ---
 
